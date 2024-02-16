@@ -1,4 +1,4 @@
 # Kusumita
 Personal repository
 # About me
-Hello There
+Hello There, I am new to github and Im trying to explore
